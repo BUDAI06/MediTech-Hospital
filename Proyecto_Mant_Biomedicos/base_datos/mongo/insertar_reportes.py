@@ -5,7 +5,6 @@ def cargar_datos_ejemplo():
     db = cliente["PF_Informatica1"]
     coleccion = db["reportes_tecnicos"]
 
-    # Documento de ejemplo
     reporte = {
         "reporte_id": "rep-20240612-003",
         "mmto_id": 58,
