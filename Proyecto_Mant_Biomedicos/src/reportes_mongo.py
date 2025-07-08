@@ -75,6 +75,3 @@ def menu_reportes_tecnicos():
             break
         else:
             print("Opción inválida.")
-
-
-# Puedes agregar modificar_reporte si quieres.
