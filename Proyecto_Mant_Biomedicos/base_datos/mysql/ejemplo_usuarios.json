@@ -1,0 +1,5 @@
+[
+  {"usuario_id": 1, "nombre_usuario": "admin", "password": "admin123", "rol": "Administrador"},
+  {"usuario_id": 2, "nombre_usuario": "ingeniero", "password": "ingeniero123", "rol": "Ingeniero"},
+  {"usuario_id": 3, "nombre_usuario": "tecnico", "password": "tecnico123", "rol": "Tecnico"}
+]
